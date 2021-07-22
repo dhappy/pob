@@ -1,2 +1,2 @@
 # dpair
-Decentralized live-streamed hacking for open-source projects.
+Decentralized video tracking of the development process for open-source projects.
